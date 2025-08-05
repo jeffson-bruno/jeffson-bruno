@@ -59,9 +59,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeffson-bruno&show_icons=true&theme=github_dark&hide=stars" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffson-bruno&theme=github-dark-blue" width="48%" />
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeffson-bruno&theme=github-dark-blue" width="48%" /> -->
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffson-bruno&layout=compact&langs_count=7&theme=dracula" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffson-bruno&layout=compact&langs_count=7&theme=dracula" width="48%" />
 </div>
 
 ---
